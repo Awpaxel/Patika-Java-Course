@@ -1,5 +1,3 @@
-package ArraysHomework;
-
 public class MatrixTranspose {
     public static void main(String[] args) {
         // Örnek matris (2x3)

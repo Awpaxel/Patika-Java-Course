@@ -1,5 +1,3 @@
-package Koşullu_İfadeler_Ödevler;
-
 import java.util.Scanner;
 
 public class ArtıkYılHesaplama {

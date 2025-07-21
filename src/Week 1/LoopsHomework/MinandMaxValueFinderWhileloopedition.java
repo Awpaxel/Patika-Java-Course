@@ -1,5 +1,3 @@
-package LoopsHomework;
-
 import java.util.Scanner;
 
 public class MinandMaxValueFinderWhileloopedition {

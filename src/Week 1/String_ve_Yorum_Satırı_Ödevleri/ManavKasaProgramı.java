@@ -1,5 +1,3 @@
-package String_ve_Yorum_Satırı_Ödevleri;
-
 import java.util.Scanner;
 
 public class ManavKasaProgramı {

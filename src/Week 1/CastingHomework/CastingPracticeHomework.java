@@ -1,5 +1,3 @@
-package CastingHomework;
-
 import java.util.Scanner;
 
 public class CastingPracticeHomework {
