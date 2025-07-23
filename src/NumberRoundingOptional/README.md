@@ -14,7 +14,7 @@ Java ile geliştirilen bu program, kullanıcının girdiği ondalıklı sayıyı
   Math.ceil()   // Yukarı
   Math.round()  // En yakın
 
-  🛠️ Kullanılan Teknolojiler
+ # 🛠️ Kullanılan Teknolojiler
 Java 21, IntelliJIDEA Comunnity Edition
 
 java.util.Scanner (Kullanıcı girişi için)
