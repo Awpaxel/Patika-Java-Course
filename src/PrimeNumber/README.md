@@ -42,6 +42,7 @@ Java 21+ (veya 8+)
 IntelliJ IDEA / Eclipse / VS Code
 
 Terminal veya Java destekli IDE
+```
 
 👨‍💻 Hazırlayan
 📘 Java Eğitimi / Ödev
