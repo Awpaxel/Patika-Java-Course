@@ -28,7 +28,7 @@ System.out.println(emp.toString());`
 
 ### **Örnek Çıktı:**
 
-`Adı : Kemal
+```Adı : Kemal
 
 Maaşı : 2000.0
 
