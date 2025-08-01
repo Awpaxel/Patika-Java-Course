@@ -6,16 +6,19 @@ Bu Java uygulaması, Nesne Yönelimli Programlama (OOP) prensiplerini kullanarak
 
 ### **🛠️ Özellikler**
 
-1. Çalışan maaş yönetimi (vergi hesaplamalarıyla)
-2. Fazla mesai bonusu hesaplama
-3. Kıdeme göre maaş zammı
-4. Detaylı çalışan bilgisi görüntüleme
+* Çalışan maaş yönetimi (vergi hesaplamalarıyla)
+* Fazla mesai bonusu hesaplama
+* Kıdeme göre maaş zammı
+* Detaylı çalışan bilgisi görüntüleme
 
 ### 🔧 Uygulanan OOP Prensipleri
 
 * Kapsülleme: Private nitelikler ve public metotlar
 * Soyutlama: Karmaşık hesaplamalar basit metot çağrıları arkasında gizlenmiştir
 * Modülerlik: Her hesaplama kendi metodunda yapılmıştır
+
+### 🛠️ Kullanılan Teknolojiler
+* Java 21, IntelliJIDEA Comunnity Edition
 
 ### **📝 Örnek Kullanım**
 
