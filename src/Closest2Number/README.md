@@ -43,7 +43,7 @@ Bu proje, Java dilinde `ArrayList<Integer>` kullanarak 10 benzersiz pozitif say�
 - Temel değişken tipleri: `int`
 
 ## 📝 Örnek Çıktı
-
-```[1, 5, 7, 9, 12, 15, 16, 20, 28, 30]
+```
+[1, 5, 7, 9, 12, 15, 16, 20, 28, 30]
 En yakın sayılar: 15 ve 16
 Aralarındaki fark: 1
