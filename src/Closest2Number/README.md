@@ -10,7 +10,7 @@ Bu proje, Java dilinde `ArrayList<Integer>` kullanarak 10 benzersiz pozitif say�
 - Liste küçükten büyüğe sıralanır.
 - En küçük farkı veren iki sayı belirlenir ve ekrana yazdırılır.
 
----
+
 ---
 
 ## 🔗 Özet Çözüm Adımları
