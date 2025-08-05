@@ -22,7 +22,7 @@ Bu Java uygulaması, Nesne Yönelimli Programlama (OOP) prensiplerini kullanarak
 
 ### **📝 Örnek Kullanım**
 
-```Employee emp = new Employee("Kemal", 2000, 45, 1985);
+`Employee emp = new Employee("Kemal", 2000, 45, 1985);
 
 System.out.println(emp.toString());`
 
